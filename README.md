@@ -36,7 +36,7 @@ WanderingProgramV2 is a Python script designed to explore the concept of a self 
 
 1. **Create a VM:**
    - Use VirtualBox or VMware.
-   - Install a Linux-based OS (Ubuntu) for easier directory management.
+   - Install a Linux based OS (Ubuntu) for easier directory management.
 
 2. **Run the Main Program:**
    - Ensure `wander2.py` and `trigger.py` are in the same directory.
